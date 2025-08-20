@@ -3,9 +3,8 @@
 
 📌 Sobre o projeto
 
-Este repositório demonstra como consumir a httpdogapi (uma API pública de cachorros) para listar raças, buscar imagens aleatórias e filtrar imagens por raça/sub-raça. O foco é ser simples, didático e fácil de adaptar.
+Este repositório demonstra como consumir a httpdogapi (uma API pública de cachorros) para listar raças, buscar imagens aleatórias. O foco é ser simples, didático e fácil de adaptar.
 
-Observação: Se o seu endpoint base for diferente (ex.: Dog CEO – https://dog.ceo/api), ajuste a variável BASE_URL e as rotas abaixo. 
 
 ✨ Funcionalidades
 
